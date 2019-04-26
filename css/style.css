@@ -53,7 +53,7 @@ h4.indifferent {
 }
 
 h4.dubious {
-    background: linear-gradient(to right, #e88181, #dd4444)
+  background: linear-gradient(to right, #dd4444, #e88181)
 }
 
 .column {
