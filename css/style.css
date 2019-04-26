@@ -10,7 +10,11 @@ body, html {
 body {
   background-image: url('../images/white-wood.jpg');
   background-repeat: no-repeat;
-  background-size: 100%;
+  background-position: center;
+  -webkit-background-size: contain;
+  -moz-background-size: contain;
+  -o-background-size: contain;
+  background-size: contain;
 }
 
 .container, h1 {
