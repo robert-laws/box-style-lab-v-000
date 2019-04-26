@@ -8,7 +8,7 @@ body, html {
 }
 
 body {
-  background: url('../images/white-wood.jpg') no-repeat top left;
+  background-image: url('../images/white-wood.jpg');
   background-size: cover;
 }
 
