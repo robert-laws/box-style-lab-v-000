@@ -49,7 +49,11 @@ h4.indifferent {
   border: 1px solid #dd4444;
   background-color: #e88181;
   box-shadow:  -1px 1px #dd4444, -2px 2px #dd4444, -3px 3px #dd4444, -4px 4px #dd4444, -5px 5px #dd4444;
-  background: linear-gradient(to right, #e88181, #dd4444)
+
+}
+
+h4.dubious {
+    background: linear-gradient(to right, #e88181, #dd4444)
 }
 
 .column {
